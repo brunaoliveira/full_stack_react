@@ -9,3 +9,4 @@ Project developed to learn how to build and deploy web apps
 - [React](https://github.com/topics/react) and [Redux](https://github.com/topics/redux): user create new campaign
 - [React](https://github.com/topics/react), [Redux](https://github.com/topics/redux) and [Redux Form](https://github.com/redux-form/redux-form): user addition to email list to send survey to
 - [Heroku](https://github.com/heroku): handle deployment
+  - To start Heroku: ```heroku login```
