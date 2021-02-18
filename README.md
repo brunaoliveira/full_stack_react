@@ -1,4 +1,4 @@
-# full_stack_reactive
+# full_stack_react
 Project developed to learn how to build and deploy web apps 
 
 
