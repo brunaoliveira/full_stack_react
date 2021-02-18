@@ -17,3 +17,4 @@ https://protected-hollows-99036.herokuapp.com/
   git push heroku main
   heroku open --app <name_of_app_generated>
   ```
+- [Google Cloud Platform](https://console.cloud.google.com/): authentication
