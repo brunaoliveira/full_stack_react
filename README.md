@@ -18,3 +18,11 @@ https://protected-hollows-99036.herokuapp.com/
   heroku open --app <name_of_app_generated>
   ```
 - [Google Cloud Platform](https://console.cloud.google.com/): authentication
+
+
+### Run
+```
+git clone 
+cd full_stack_react/server
+node index.js
+```
