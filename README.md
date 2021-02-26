@@ -25,5 +25,6 @@ https://protected-hollows-99036.herokuapp.com/
 git clone 
 cd full_stack_react/server
 npm install --save nodemon
+npm install --save mongoose
 node index.js
 ```
