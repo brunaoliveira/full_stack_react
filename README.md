@@ -26,5 +26,6 @@ git clone
 cd full_stack_react/server
 npm install --save nodemon
 npm install --save mongoose
+npm install --save cookie-session
 node index.js
 ```
