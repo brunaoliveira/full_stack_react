@@ -11,7 +11,7 @@ passport.use(
         clientSecret: keys.googleClientSecret,
         callbackURL: '/auth/google/callback'
     }, (accessToken, refreshToken, profile, done) => {
-       new User({ googleId: profile.id })
+       new User({ googleId: profile.id }).save();
     })
 );
 
