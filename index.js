@@ -23,7 +23,7 @@ app.use(passport.session());
 require('./routes/authRoutes')(app);
 
 const PORT = process.env.PORT || 5000;
-console.log(PORT);
+console.log('port: ', PORT);
 console.log(keys.mongoURI);
 console.log(keys.googleClientID);
 
