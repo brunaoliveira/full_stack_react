@@ -21,11 +21,16 @@ https://protected-hollows-99036.herokuapp.com/
 
 
 ### Run
-```
-git clone 
-cd full_stack_react/server
-npm install --save nodemon
-npm install --save mongoose
-npm install --save cookie-session
-node index.js
-```
+  ```
+  git clone 
+  cd full_stack_react/server
+  npm install --save nodemon
+  npm install --save mongoose
+  npm install --save cookie-session
+  node index.js
+  ```
+  ```
+  cd client
+  npm start
+  ```
+You are running Node 8.8.1.
