@@ -24,6 +24,7 @@ https://protected-hollows-99036.herokuapp.com/
   ```
   git clone 
   cd full_stack_react/server
+  nvm install 14.15.5
   npm install --save nodemon
   npm install --save mongoose
   npm install --save cookie-session
@@ -33,4 +34,4 @@ https://protected-hollows-99036.herokuapp.com/
   cd client
   npm start
   ```
-You are running Node 8.8.1.
+# You are running Node 8.8.1.
