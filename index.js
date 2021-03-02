@@ -1,4 +1,3 @@
-console.log('START');
 const express = require('express');
 const mongoose = require('mongoose');
 const keys = require('./config/keys');
@@ -23,8 +22,6 @@ app.use(passport.session());
 require('./routes/authRoutes')(app);
 
 const PORT = process.env.PORT || 5000;
-console.log('port: ', PORT);
-console.log(keys.mongoURI);
-console.log(keys.googleClientID);
-
 app.listen(PORT);
+
+mongodb+srv://dbUser:<password>@cluster0.uldvk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
