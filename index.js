@@ -23,5 +23,3 @@ require('./routes/authRoutes')(app);
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT);
-
-mongodb+srv://dbUser:<password>@cluster0.uldvk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
