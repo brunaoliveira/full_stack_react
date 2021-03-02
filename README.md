@@ -28,6 +28,7 @@ https://protected-hollows-99036.herokuapp.com/
   npm install --save nodemon
   npm install --save mongoose
   npm install --save cookie-session
+  npm install --save concurrently
   node index.js
   ```
   ```
