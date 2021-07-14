@@ -35,4 +35,3 @@ https://protected-hollows-99036.herokuapp.com/
   cd client
   npm start
   ```
-# You are running Node 8.8.1.
