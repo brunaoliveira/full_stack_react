@@ -1,4 +1,4 @@
-# full_stack_react
+# React Full-Stack
 Project developed to learn how to build and deploy web apps 
 https://protected-hollows-99036.herokuapp.com/
 
